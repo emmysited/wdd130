@@ -1,6 +1,6 @@
 nav{
     background-color: darkblue;
-    padding:10 px;
+    padding: 10px;
 }
 nav a{
     color: white;
@@ -40,7 +40,7 @@ main img{
     width: 150px;
     height: auto;
 }
-p{ padding: 0px;}
+p{ padding: 0;}
 footer{
     margin-top: 15px;
     border-top: 1px solid #000;
