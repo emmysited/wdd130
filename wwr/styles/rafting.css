@@ -1,8 +1,8 @@
 :root {
-    --primary-color: #004e89;
-    --secondary-color: #76c7c0;
-    --accent1-color: #fca311;
-    --accent2-color: #ffffff;
+    --primary-color: #264653;
+    --secondary-color: #2a9d8f;
+    --accent1-color: #e9c46a;
+    --accent2-color: #f4a261;
     --heading-font: 'Oswald', sans-serif;
     --body-font: 'Roboto', sans-serif;
 }
