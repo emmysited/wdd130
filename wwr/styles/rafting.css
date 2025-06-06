@@ -174,3 +174,15 @@ footer p {
 .socialmedia img:hover {
     transform: scale(1.2);
 }
+
+.contact-form form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .contact-form label, .contact-form input, .contact-form textarea, .contact-form button {
+    margin-bottom: 1em;
+  }
+  
