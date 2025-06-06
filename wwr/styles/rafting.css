@@ -185,4 +185,8 @@ footer p {
   .contact-form label, .contact-form input, .contact-form textarea, .contact-form button {
     margin-bottom: 1em;
   }
+  .map-frame {
+    border: none;
+    max-width: 100%;
+  }
   
