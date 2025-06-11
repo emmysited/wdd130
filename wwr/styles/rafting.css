@@ -55,19 +55,21 @@
     list-style: none;
   }
   
+  /* Navbar links */
   nav a {
-    color: white;
-    font-family: var(--heading-font);
+    color: #ffffff;
+    background-color: #2a9d8f;
+    font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     text-decoration: none;
     padding: 0.5rem;
     transition: background-color 0.3s;
+    border-radius: 4px;
   }
   
   nav a:hover {
-    background-color: var(--accent1-dark);
-    color: #fff;
-    border-radius: 5px;
+    background-color: #d4a106;
+    color: #000000;
   }
   
   /* Hero section */
@@ -147,19 +149,20 @@
     margin: 2rem 0;
   }
   
+  /* Button hover */
   .btn {
-    background-color: var(--secondary-color);
-    color: #fff;
-    padding: 0.75rem 1.5rem;
-    text-decoration: none;
-    border-radius: 5px;
-    display: inline-block;
+    background-color: #2a9d8f;
+    color: #ffffff;
     font-weight: bold;
+    padding: 0.75rem 1.5rem;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
   }
   
   .btn:hover {
-    background-color: var(--accent1-dark);
-    color: #fff;
+    background-color: #d4a106;
+    color: #000000;
   }
   
   /* Grid Info (Home page) */
